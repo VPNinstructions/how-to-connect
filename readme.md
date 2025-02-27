@@ -8,7 +8,7 @@
    - Для macOS: [Скачать клиент](https://apps.apple.com/ru/app/foxray/id6448898396)
    - Для Linux: [Скачать клиент](https://hiddify.com/)
    ### Mobile:
-   - Android: [Скачать клиент](https://play.google.com/store/apps/details?id=com.v2ray.ang&hl=ru)
+   - Android: [Скачать клиент](https://play.google.com/store/apps/details?id=app.hiddify.com&hl=ru)
    - IOS [Скачать клиент](https://apps.apple.com/ru/app/foxray/id6448898396)
 2. **Настройте подключение**:
    Скопируйте строку, которую прислал вам бот и вставьте её в ваш клиент
